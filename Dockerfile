@@ -1,4 +1,4 @@
-FROM gitlab/gitlab-runner:alpine-v12.5.0
+FROM gitlab/gitlab-runner:alpine-v12.10.2
 
 ENV APP_VERSION=v0.3.1
 
